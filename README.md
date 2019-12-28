@@ -1,0 +1,2 @@
+# practies
+this for githubpractises
